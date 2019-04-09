@@ -1,0 +1,51 @@
+fileFormatVersion: 2
+guid: 608b76e2d3f0b094cad823cccee9b24a
+timeCreated: 1514290748
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playAudioCurrent: {instanceID: 0}
+  - noise: {instanceID: 0}
+  - liuTwo: {instanceID: 0}
+  - liuThree: {instanceID: 0}
+  - liuFour: {instanceID: 0}
+  - liuFive: {instanceID: 0}
+  - liuSix: {instanceID: 0}
+  - liuSeven: {instanceID: 0}
+  - liOne: {instanceID: 0}
+  - liTwo: {instanceID: 0}
+  - liThree: {instanceID: 0}
+  - liFour: {instanceID: 0}
+  - liFive: {instanceID: 0}
+  - liSix: {instanceID: 0}
+  - liSeven: {instanceID: 0}
+  - liEight: {instanceID: 0}
+  - liNine: {instanceID: 0}
+  - liTen: {instanceID: 0}
+  - liEleven: {instanceID: 0}
+  - liTwelve: {instanceID: 0}
+  - liThirteen: {instanceID: 0}
+  - liFourteen: {instanceID: 0}
+  - liFifteen: {instanceID: 0}
+  - ambulance: {instanceID: 0}
+  - zhaoone: {fileID: 8300000, guid: 0c9cd4a3618add444af9ce1c500d0c5f, type: 3}
+  - cpr_Start: {instanceID: 0}
+  - cpr_StartConfirm: {instanceID: 0}
+  - cpr_AEDController: {instanceID: 0}
+  - cpr_CheckAED: {instanceID: 0}
+  - cpr_CheckPerson: {instanceID: 0}
+  - cpr_PersonController: {instanceID: 0}
+  - cpr_Dail: {instanceID: 0}
+  - cpr_SetPhone: {instanceID: 0}
+  - cpr_DailController: {instanceID: 0}
+  - cpr_Disrobe: {instanceID: 0}
+  - cpr_Information: {instanceID: 0}
+  - cpr_TrainController: {instanceID: 0}
+  - cpr_PutDownPhone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

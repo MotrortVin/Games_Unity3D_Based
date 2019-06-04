@@ -1,6 +1,6 @@
 # Unity3D_VR_Projects
 ---
-##Abstract:
+## Abstract:
 Nowadays, people are living under great pressure, and nearly 80 percent of them are in sub-health, according to some surveys. Nearly half a million people in China are killed by sudden cardiac death each year, while China has less control over cardiopulmonary resuscitation than other developed countries, leading to a lower survival rate. The popularization of cardiopulmonary resuscitation is urgent.
 
 Cardiopulmonary resuscitation (CPR) electronic training system (CPR_VR - a set of anytime, anywhere can be a highly specialized CPR training programs), based on MRTK, using the Unity and development, set up four VR training platform: "CPR_VR basic operation training," "the story situation exercises training", "cardiopulmonary resuscitation (CPR) pressure plate special training" and "special training" AED combination plate. The training process includes first aid call, life feature detection, chest compressive assessment and AED instruction. Users can conduct unnecessary training according to their different needs.
@@ -20,8 +20,9 @@ In the future, with the promotion and popularization of VR equipment, CPR_VR tec
 我们的应用型软件为“CPR_VR”，是一套可以用Vive等当前常用的VR头显操控的VR培训系统。一共五个场景，包括一个主场景和四个培训场景。进入环形主界面后，用户可以选择进入“CPR_VR基础操作培训”，“地铁故事情境演习培训”，“心肺复苏按压板块专项培训”以及“AED结合板块专项培训”。用户可通过凝视的操作实现培训的选择。
 
 我们的培训整体脱离steamVR平台，基于MRTK进行开发，发布后，可以脱离steam平台独立使用。
+
 ---
-##软件流程
+## 软件流程
 在四个培训板块中，分工明确，各有专长。
 
 首先，在第一板块：“CPR_VR基础操作培训”的板块中，用户将在我们的带领下学习如何在场景中移动，转向，瞬移，选择，凝视和退出，本培训板块为剩余三大板块的基础，用户可以通过本板块迅速掌握VR头显和手柄各个按键和设备的功能。
